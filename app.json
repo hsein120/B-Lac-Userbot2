@@ -1,19 +1,19 @@
 {
   "name": "telethon-Arabs",
   "description": "Welcome to Arab Telethon Source Arabic Language Modifier Follow our official channel @ IQTHON",
-  "logo": "https://telegra.ph/file/686c46e34b1a5fa4ef467.jpg",
+  "logo": "https://telegra.ph/file/5dc264df6523a53cbeb0e.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/telethon-Arab/telethon-Ar-pack/",
+  "repository": "https://github.com/hsein120/B-Lac-Userbot2",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "𝘋𝘈𝘝⁦",
-      "value": "𝘋𝘈𝘝⁦⁦"
+      "description": "@IXKKl",
+      "value": "@IXKKl"
     },
     "APP_ID": {
       "description": "اكتب هنا الايبي ايدي",
